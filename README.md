@@ -1,28 +1,18 @@
-# Aurora AI — KI-Kernschicht
+# atc-aurora-ai
 
-Aurora AI Core — die zentrale KI-Schicht des A-TownChain Ökosystems. Agent-Runtime, LLM-Orchestrierung, Multi-Agent-Koordination, Memory, Tool-Use, Model-Hub. Bündelt die verstreuten AI-Module (core/ai/, ai_kernel, kai_routes) in einem dedizierten Repo. Implementiert die 12 Agenten-Rollen aus Regel 11.
+Aurora AI — der persönliche KI-Agent des A-TownChain-Ökosystems.
 
-## Quick Facts
+## Features
+- KI-gestützte Kernel-Entwicklung (ShivaCore K-Sprints)
+- Repo-Management & GitHub-Automatisierung
+- Wiki-Synchronisierung & Dokumentation
+- Code-Audits & Architektur-Reviews
+- CI/CD-Pipeline-Orchestrierung
 
-| Metrik | Wert |
-|--------|------|
-| Layer | L6 — AI Layer |
-| Sprint | 3.2 |
-| ATC-Standards | ATC-97, ATC-24, ATC-17, ATC-45 |
-| .atc Dateien | 17 |
-| Zeilen | 468 |
+## Status
+- Plattform: Base44 Superagent
+- Sprache: Python (Skills) + Rust (Kernel-Arbeit)
+- Automations: GitHub + Notion + Wiki Sync (6-12h Zyklus)
 
-## Architektur
-
-Siehe [ARCHITECTURE.md](ARCHITECTURE.md) für den vollständigen Architektur-Baum.
-
-## Komponenten
-
-Siehe [COMPONENT_PLAN.md](COMPONENT_PLAN.md) für den detaillierten Komponenten-Plan.
-
-## Teil von
-
-[A-TownChain Ökosystem](https://github.com/A-TownChain-Okosystems)
-
----
-*Auto-generiert 2026-08-06 · Aurora (MasterBrain · Base44)*
+## Copyright
+Copyright © Michael Wroblewski / A-TownChain-Okosystems. All Rights Reserved.
